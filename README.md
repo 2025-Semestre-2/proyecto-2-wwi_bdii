@@ -6,6 +6,4 @@ Owen Torres Porras
 Raúl Jamir Alfaro Rodríguez
 2023060456
 ### Repositorio Borrador: https://github.com/RaJami1205/Wide_World_Importers_Bases_II
-### Estado del proyecto:
-### Enlace del video:
-Recordar que el video debe ser público para ser visto por el profesor
+### Estado del proyecto: Regular
